@@ -16,6 +16,8 @@ Before running ConvoSyncPDF Chat, make sure you have the following installed:
 
 - Python 3.x
 - Required Python libraries (specified in `requirements.txt`)
+  
+![Project Screenshot](screenshot (208).png)
 
 ## Setup
 
