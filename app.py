@@ -21,7 +21,7 @@ load_dotenv()
 st.set_page_config(
     page_title="ConvoSyncPDF Chat",
     page_icon=":books:",
-    layout="wide",  # Set layout to wide for a better UI
+    layout="wide", 
 )
 
 custom_styles = """
